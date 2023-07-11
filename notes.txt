@@ -1,0 +1,8 @@
+Admin
+Username - user password- papayaw
+
+Manager
+username user1 password - asdfghjkl;'
+
+Delivery crew
+username user3 password - qwertyuiop
